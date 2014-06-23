@@ -1,4 +1,4 @@
-openalea.github.io
-==================
+openalea-website
+================
 
-build pages of th documentation
+repository for sources of documentation
